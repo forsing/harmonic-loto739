@@ -189,5 +189,5 @@ if __name__ == "__main__":
 
 
 """
-harmonic_v3 next: [2, 3, 11, 15, 16, 18, 23]
+harmonic_v3 next: [2, x, 11, y, 16, z, 23]
 """
