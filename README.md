@@ -17,8 +17,8 @@ https://www.lotoss.info
 ABBREVIATED LOTTO SYSTEMS
 
 
-svih 4652 izvlacenja
-30.07.1985.- 17.07.2026.
+svih 4654 izvlacenja
+30.07.1985.- 21.07.2026.
 
 
 Report abuse: 
